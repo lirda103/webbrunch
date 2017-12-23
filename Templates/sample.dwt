@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>晨食_Brunch</title>
+<!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="../css/defaul.css" rel="stylesheet" type="text/css">
+<link href="../bootstrap400beta2/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../fontello/css/fontello.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<nav>
+     <div class="nav-widthMAX">
+		<a href="#" class="icon-th-list"></a>
+        <a href="#" class="icon-cancel"></a>
+        <a href="../index.html" class="logo"></a>
+ 
+        <ul>
+			<li><a href="../about.html" id="aboutBTN">關於我們</a></li>
+            <li><a href="../menu.html" id="menuBTN">美食饗宴</a></li>
+            <li><a href="../menu.html#hamburger" id="hBTN">漢堡系列</a></li>
+            <li><a href="../menu.html#sandwich" id="sBTN">三明治系列</a></li>
+            <li><a href="../menu.html#sale" id="saleBTN">超值升級</a></li>
+            <li><a href="../map.html" id="mapBTN">門市導覽</a></li>
+            <li>           
+                <div class="iconBAR">
+                    <a href="#" class="icon-instagram-2"></a>
+                    <a href="#" class="icon-facebook-official"></a>
+                    <a href="#" class="icon-location-circled"></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+<!-- TemplateBeginEditable name="data" -->data<!-- TemplateEndEditable -->
+
+
+
+<footer>
+	<div class="container">
+    	<div class="row">
+        	<div class="col-xl-6 col-md-12 col-sm-12 addDATA">
+            	<p>晨食 Brunch</p>
+                <p>地址：台中市北區三民路三段155號</p>
+                <p>電話：04-22221234</p>
+            </div>
+            <div class="col-xl-6 col-md-12 col-sm-12 copyright">
+                <p>IRIS- 網頁設計</p>
+                <p>本作品為課堂習作，虛擬商店，並無商業行為，特此聲明</p>
+                <p>本網站所有資料乃搜集自網路，版權屬原作者所有</p>
+            </div>
+
+        </div>
+    </div>
+
+
+
+</footer>
+
+
+
+
+
+<script src="../jQ_dist/jquery-3.2.1.min.js"></script>
+<script src="../jQ_dist/popper.min.js"></script>
+<script src="../bootstrap400beta2/dist/js/bootstrap.min.js"></script>
+<script src="../jQ_dist/jquery.easing.1.3.js"></script>
+<script src="../jQ_dist/index.js"></script>
+</body>
+</html>
